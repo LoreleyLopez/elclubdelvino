@@ -1,0 +1,9 @@
+1. Quieren cambiar el modelo de calendario actual, por uno que aparezcan mas resumido, mas lindo y con efecto
+Quieren dejar de usar el modelo de cuadricula y pasarse a uno mas agradable para la vista
+Pensaron en usar el estilo de "sobre nosotros" (Los cuadrados rosas de abajo - modulos con titulo y descripcion)
+
+Con codigo
+
+
+2.  La parte de cada evento (Cuando se hace click), tambien quieren modificarlo y ponerlo mas lindo. Sobre todo
+cambiar tipografia y colores. Es con codigo
