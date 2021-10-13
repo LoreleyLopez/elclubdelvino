@@ -1,0 +1,26 @@
+1. Inicio (Home)
+
+- Del header. cambiar tipografia y color (Va con codigo)
+
+- Para la parte del menu, quieren dividirlo, dejando 3 links de un lado, el logotipo en el medio y 
+otros tres links del otro lado. Al logo agregarle un efecto hoover con opacidad
+
+- En cuanto al slider, entiendo que nos deberian pasar las imagenes a subir e ir probando el diseño hasta 
+que a ellos les guste
+
+- Menu messenger y flecha (Cabiar color de flecha) es con codigo
+
+
+- Sobre el titulo y la descripcion, se hace directamente con wordpress desde bakery
+
+- La modificacion del banner puede ser hecha con bakery
+
+- En el newlestter hay que agregarle una leyenda abajo de la imagen. Seguramente se pueda con bakery
+
+- Lo de las categorias querian usar un tipo de "accordeon". Probablemente sea con codigo, aunque si
+se puede con bakery, se hace con eso
+
+- Fusionaar el banner siguiente, con el que esta abajo con tres circulitos. Se puede con bakery
+
+- Hay que ver si es parte del diseño del theme. Si es asi, hay que ver si nos deja modificarlo y 
+si no con codigo
