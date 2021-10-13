@@ -1,0 +1,9 @@
+1. El texto ahora esta en una sola columna, y quieren pasarlo a dos.
+
+2. A los servicios agregarles imagenes
+
+IMPORTANTE!!!! 
+
+Posiblemente agregen una seccion aparte con "servicios" (Va al menu), que ahora no figura. Se puede con bakery
+
+3. Cambiar la imagen de contacto, se puede con bakery
